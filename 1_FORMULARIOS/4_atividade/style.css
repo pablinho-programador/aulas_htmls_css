@@ -1,0 +1,17 @@
+ @import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+body{
+    background-color: #335C67;
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+    margin: 0;
+    margin-inline: auto;
+}
+
+input{
+    border-radius: 2rem;
+}
+
+fieldset{
+    padding-bottom: 5rem;
+}
