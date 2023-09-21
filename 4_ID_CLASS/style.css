@@ -1,11 +1,30 @@
 h2{
-    color: #F71735;
+    color: burlywood;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 26px;
+    padding-left: 0.4rem;
 }
 
 p{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 20px;
     line-height: 24px;
+}
+
+button {
+    border-radius: 1.5rem;
+    background-color: #F71735;
+    color: white;
+}
+
+button:hover{
+    background-color: #ff000dc7;
+}
+
+.fundo-purple{
+    background: rebeccapurple;
+}
+
+html{
+    scroll-behavior: smooth;
 }
