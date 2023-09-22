@@ -1,5 +1,13 @@
+#titulo-id{
+    color: purple;
+}
+
+.cor-amarela {
+    color: yellow;
+}
+
 h2{
-    color: burlywood;
+    color: purple;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     font-size: 26px;
     padding-left: 0.4rem;
@@ -11,8 +19,11 @@ p{
     line-height: 24px;
 }
 
+h2{
+    color: burlywood;
+}
 button {
-    border-radius: 1.5rem;
+    border-radius: 1.05rem;
     background-color: #F71735;
     color: white;
 }
@@ -25,6 +36,20 @@ button:hover{
     background: rebeccapurple;
 }
 
+.fundo-bege{
+    background-color: blue;
+}
+
 html{
     scroll-behavior: smooth;
 }
+
+.fonte-grande{
+    font-size: 50px;
+}
+
+#titulo-principal {
+    background: black;
+    color: white;
+}
+
