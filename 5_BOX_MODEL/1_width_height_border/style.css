@@ -1,0 +1,15 @@
+ .caixa_width{
+    /* Bora precisa de espessura, tipo e cor=> Widht, style, color */
+    /* border-width: 2px;
+    border-style: solid;
+    border-color: #f00; */
+
+    /* shorthead=> Vários valores na mesma propriedade*/
+
+    border: 2px solid #f00;
+    width: 130px;
+}
+
+.imagem_width{
+    width: 400px;
+}
